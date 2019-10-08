@@ -1,0 +1,6 @@
+visitor_id,render_id,timestamp,time_on_page,max_scroll_depth,viewed_unit,interacted_with_unit,sentiment_respond_type,follow_up_question,rbt_clicked
+2922c4e2,890a671b,"Wed, 12 Jun 2019 21:47:18 GMT",16.45,0.49,true,true,Negative,null,true
+2922c4e2,890a671b,"Wed, 12 Jun 2019 21:47:34 GMT",15.818,0.62,true,true,Positive,null,false
+2922c4e2,890a671b,"Wed, 12 Jun 2019 21:47:50 GMT",16.266,0.73,true,true,Extremely Negative,null,true
+2922c4e2,890a671b,"Wed, 12 Jun 2019 21:48:06 GMT",16.175,0.65,true,true,Negative,null,true
+2922c4e2,890a671b,"Wed, 12 Jun 2019 21:48:22 GMT",15.911,0.71,true,true,Extremely Positive,null,false
